@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yunus
-- 👀 I’m interested in Breaking Things
-- 🌱 I’m currently learning Web3 Security and SharePoint
+- 👀 I’m interested in building things
+- 🌱 I’m currently working with MERN, Power Apps, Power Automate, SPFx and SharePoint.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me twitter.com/yunus_ahmed96
 
